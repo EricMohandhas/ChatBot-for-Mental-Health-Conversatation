@@ -8,24 +8,26 @@ This project aims to develop a chatbot for mental health conversations, providin
 
 * Mental Health Resources: The chatbot is designed to provide relevant resources and information related to mental health.
 
-*Deployment: The chatbot is deployed using Flask and is accessible through a user-friendly web interface.
+* Deployment: The chatbot is deployed using Flask and is accessible through a user-friendly web interface.
 
-#Dataset
+# Dataset
 
 https://www.kaggle.com/datasets/elvis23/mental-health-conversational-data
 
-#Usage
+# Usage
 
 Simply type your queries or concerns, and the chatbot will respond accordingly. Please note that while the chatbot is designed to provide support, it is not a substitute for professional medical or mental health advice. If you are in need of immediate assistance, please contact a licensed professional or a helpline in your country.
 
-#Technologies Used
+# Technologies Used
 
-Python
-Natural Language Processing (NLP) Libraries (e.g. NLTK)
-Deep Learning (DL) Libraries (e.g. TensorFlow)
-Flask for deployment
-HTML/CSS for the web interface
-Screenshots
+* Python
+* Natural Language Processing (NLP) Libraries (e.g. NLTK)
+- Deep Learning (DL) Libraries (e.g. TensorFlow)
+- Flask for deployment
+- HTML/CSS for the web interface
+
+  
+# Screenshots
 
 <p align="center">
   <img src="https://github.com/EricMohandhas/ChatBot-for-Mental-Health-Converstation/assets/125111159/3e573598-ae15-4db1-8cfa-71b9c2c7f5f3" width="1000" height="600">
