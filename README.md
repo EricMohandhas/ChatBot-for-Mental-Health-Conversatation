@@ -6,9 +6,9 @@ This project aims to develop a chatbot for mental health conversations, providin
 
 - Natural Language Processing (NLP): The chatbot utilizes NLP algorithms to understand user inputs and generate meaningful responses. It employs techniques such as text classification, sentiment analysis, and named entity recognition to accurately interpret user queries.
 
-* Mental Health Resources: The chatbot is designed to provide relevant resources and information related to mental health.
+- Mental Health Resources: The chatbot is designed to provide relevant resources and information related to mental health.
 
-* Deployment: The chatbot is deployed using Flask and is accessible through a user-friendly web interface.
+- Deployment: The chatbot is deployed using Flask and is accessible through a user-friendly web interface.
 
 # Dataset
 
@@ -20,8 +20,8 @@ Simply type your queries or concerns, and the chatbot will respond accordingly. 
 
 # Technologies Used
 
-* Python
-* Natural Language Processing (NLP) Libraries (e.g. NLTK)
+- Python
+- Natural Language Processing (NLP) Libraries (e.g. NLTK)
 - Deep Learning (DL) Libraries (e.g. TensorFlow)
 - Flask for deployment
 - HTML/CSS for the web interface
