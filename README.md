@@ -2,11 +2,11 @@
 
 This project aims to develop a chatbot for mental health conversations, providing support and resources to individuals seeking help. The chatbot utilizes natural language processing techniques and a dataset sourced from Kaggle to understand user queries and provide appropriate responses.
 
-#Features
+# Features
 
--Natural Language Processing (NLP): The chatbot utilizes NLP algorithms to understand user inputs and generate meaningful responses. It employs techniques such as text classification, sentiment analysis, and named entity recognition to accurately interpret user queries.
+- Natural Language Processing (NLP): The chatbot utilizes NLP algorithms to understand user inputs and generate meaningful responses. It employs techniques such as text classification, sentiment analysis, and named entity recognition to accurately interpret user queries.
 
-*Mental Health Resources: The chatbot is designed to provide relevant resources and information related to mental health.
+* Mental Health Resources: The chatbot is designed to provide relevant resources and information related to mental health.
 
 *Deployment: The chatbot is deployed using Flask and is accessible through a user-friendly web interface.
 
